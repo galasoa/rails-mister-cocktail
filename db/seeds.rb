@@ -1,3 +1,5 @@
+Ingredient.destroy_all
+
 Ingredient.create(name: 'lemon')
 Ingredient.create(name: 'gin')
 Ingredient.create(name: 'whisky')
